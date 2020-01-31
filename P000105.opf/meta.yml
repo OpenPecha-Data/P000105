@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །བསྙེན་སྒྲུབ་སྤྱི་ལ་གཅེས་པའི་ཡིག་ཆུང་འདི་རྒྱུད་སྡེ་སོ་སོ་ནས་གསུངས་བཞིན་འབྲི་ཁུང་པ་ཆོས་ཀྱི་གྲགས་པས་ཟུར་བཀོལ་དུ་བསྒྲིགས་པ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། འབྲི་ཁུང་པ་ཆོས་ཀྱི་གྲགས་པ།
+  sku: SHE-RTD-015
+  layers:
+  - book_title
+  - author
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: An Overview of the Approach and Accomplishment Practice in Sadhana Practice
+      According to the Four Classes of Tantra
+    bo: བསྙེན་སྒྲུབ་སྤྱི་ལ་གཅེས་པའི་ཡིག་ཆུང་འདི་རྒྱུད་སྡེ་སོ་སོ་ནས་གསུངས་བཞིན་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 15
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༡༥
+  author:
+    en: Drikungpa Chokyi Drakpa
+    bo: འབྲི་ཁུང་པ་ཆོས་ཀྱི་གྲགས་པ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-015
+  category:
+    en: Deity Practice
+    bo: བསྐྱེད་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-015.epub
+  description:
+    en: ''
+    bo: ''
