@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000105
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བསྙེན་སྒྲུབ་སྤྱི་ལ་གཅེས་པའི་ཡིག་ཆུང་འདི་རྒྱུད་སྡེ་སོ་སོ་ནས་གསུངས་བཞིན་འབྲི་ཁུང་པ་ཆོས་ཀྱི་གྲགས་པས་ཟུར་བཀོལ་དུ་བསྒྲིགས་པ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། འབྲི་ཁུང་པ་ཆོས་ཀྱི་གྲགས་པ།
-  sku: SHE-RTD-015
   layers:
   - book_title
   - author
   - quotation
   - yigchung
+  id: SHE-RTD-015
 web_metadata:
   title:
     en: An Overview of the Approach and Accomplishment Practice in Sadhana Practice
